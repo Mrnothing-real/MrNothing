@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Junior Frontend Developer | Self-taught | Web, animations & creative code</h1>
+<h1 align="center">Junior Frontend Developer | Self-taught | Web, animations & creative code</h1>
 <h3 align="center"><code>"curious mind || creative soul"</code></h3>
 
 <p align="center">
