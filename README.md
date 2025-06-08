@@ -1,5 +1,11 @@
-<h1 align="center">Junior Frontend Developer | Self-taught | Web, animations & creative code</h1>
-<h3 align="center">"curious mind || creative soul"</h3>
+<h1 align="center">🧠 Junior Frontend Developer | Self-taught | Web, animations & creative code</h1>
+<h3 align="center"><code>"curious mind || creative soul"</code></h3>
+
+<p align="center">
+  <img src="https://wallpapers.com/images/high/1920x1080-4k-horror-anime-girl-h6bx0zxn76s0xo6x.webp" alt="Anime Hacker Vibes" width="100%"/>
+</p>
+
+---
 
 ### ✅ What I use daily
 
@@ -15,9 +21,10 @@
   </a>
 </p>
 
+---
 
+### ⚙️ What I'm learning
 
-### ⚙️ What I'm Learning
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
