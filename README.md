@@ -2,7 +2,7 @@
 <h3 align="center"><code>"curious mind || creative soul"</code></h3>
 
 <p align="center">
-  <img src="https://wallpapers.com/images/high/1920x1080-4k-horror-anime-girl-h6bx0zxn76s0xo6x.webp" alt="Anime Hacker Vibes" width="100%"/>
+  <img src="https://i.pinimg.com/736x/b3/88/d5/b388d5f270f6bc295772503d49cc5f06.jpg" width="100%"/>
 </p>
 
 ---
