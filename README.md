@@ -2,7 +2,7 @@
 <h3 align="center"><code>"curious mind || creative soul"</code></h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/b3/88/d5/b388d5f270f6bc295772503d49cc5f06.jpg" width="75%"/>
+  <img src="https://i.pinimg.com/736x/b3/88/d5/b388d5f270f6bc295772503d49cc5f06.jpg" width="35%"/>
 </p>
 
 ---
